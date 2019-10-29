@@ -1,0 +1,23 @@
+* Building a photo filter
+
+* I needed to scratch my own itch
+** Goals
+*** Make it as easy as possible to apply my usual black and white portrait workflow
+*** Create a photo editing extension
+
+* Research
+
+* Prototype
+
+* Rebuilding + UI
+
+* Building out the photo editing extension
+
+* Struggles
+** The highlights blew out when I selected anything but pure red, green, or blue
+** Photos not oriented "up" randomly failed to save with an unhelpful error message
+*** https://stackoverflow.com/questions/52384281/photos-extension-cant-save-images-not-oriented-up
+** Turn Night Shift off, lol
+
+* Result
+

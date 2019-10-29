@@ -1,0 +1,5 @@
+* TabNine emacs docs: https://tabnine.com/install
+* Add autocompletion layer https://github.com/syl20bnr/spacemacs/tree/master/layers/%2Bcompletion/auto-completion
+* Add company-tabnine backend https://github.com/TommyX12/company-tabnine
+* Add lsp-sourcekit client https://github.com/emacs-lsp/lsp-sourcekit
+* Semantic highlighting via color-identifiers mode?
